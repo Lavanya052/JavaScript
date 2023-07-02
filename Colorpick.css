@@ -1,0 +1,75 @@
+h1
+{
+	color: white;
+	background: #008090;
+	text-align: center;
+	font-weight: normal;
+	text-transform: uppercase;
+	padding: 20px 0;
+}
+
+body
+{
+	background: white;
+	margin: 0;
+	font-family: "arial";
+}
+
+#target
+{
+	font-size: 200%;
+}
+
+button
+{
+	border: none;
+	background: #008080;
+	text-transform: uppercase;
+	height: 100%;
+	font-weight: 700;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-size: inherit;
+	transition: all 0.3s;
+}
+
+button:hover
+{
+	color: white;
+	background:#0000ff;
+}
+
+.sqr
+{
+	background:#808080;
+	width: 12%;
+	margin:1.6%;
+	float: left;
+	padding-bottom: 30%;
+	border-radius: 30%;
+	transition: background 0.7s;
+}
+
+.container
+{
+	margin: 20px auto;
+	max-width: 650px;
+}
+
+#strip
+{
+	text-align: center;
+	background: white;
+	padding: auto 0;
+}
+
+#msg
+{
+	font-family: "arial";
+	text-transform:uppercase;
+	height: 100%;
+	letter-spacing: 1px;
+	font-weight:700;
+	font-size: inherit;
+	transition: all 0.3s;
+}
